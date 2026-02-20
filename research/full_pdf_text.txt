@@ -1,0 +1,91 @@
+Agent IA de Décision pour l’Amélioration de
+l’OEE
+Projet d’Innovation – TECPAP
+École Centrale Casablanca
+20 novembre 2025
+Contexte et Problématique
+TECPAP dispose d’une grande quantité de données issues d’Evocon : OEE, dispo-
+nibilité, performance, qualité, arrêts et rebuts. Malgré leur richesse, ces données sont
+principalementdescriptives. Elles indiquent ce qui s’est passé, mais ne permettent pas
+de :
+— prédire les performances futures,
+— recommander la meilleure ligne ou machine,
+— anticiper les dérives de rendement,
+— optimiser les décisions opérationnelles quotidiennes.
+L’objectif industriel est clair :améliorer l’OEE de +1% à +5%. Atteindre cette
+amélioration nécessite une solution capable de transformer les données endécisions op-
+timales.
+Vision Innovante : Agent IA de Décision
+Nous proposons unAgent IA de Décision, un système intelligent qui va bien au-delà
+de l’analyse classique. Cet agent a pour but de :
+—prédire l’OEE futurde chaque machine et ligne,
+—recommander automatiquement la meilleure lignepour chaque production,
+—simuler des scénarios de production(L1 vs L2 vs L3),
+—apprendre des historiques d’anomalieset des solutions appliquées,
+—optimiser les décisionsayant un impact direct sur l’OEE.
+Cette approche transforme une plateforme descriptive (Evocon) en uneIA prescrip-
+tive et proactive.
+Innovation Technique
+L’innovation réside dans trois dimensions principales :
+1
+1. Prédiction OEE et performances futures
+À partir de l’historique Evocon + paramètres techniques machine, l’agent estime :
+— la disponibilité probable du jour,
+— les risques de micro-arrêts,
+— la performance attendue,
+— l’OEE projeté.
+2. Recommandation automatique de la meilleure ligne
+L’agent compare les scénarios :
+— Où lancer la production?
+— Sur quelle ligne a-t-on le meilleur rendement?
+Exemple :Lancer sur Ligne 1→OEE prévu : 79% ; Ligne 2→OEE prévu : 67%.
+3. Système expert basé sur l’historique des anomalies
+L’agent apprend :
+— les anomalies passées,
+— leurs causes,
+— les solutions déjà appliquées.
+Il peut alors proposer des actions correctives.
+2
+Architecture de l’Agent IA
+Données d’entrée
+Evocon (OEE, arrêts, performance)
++ Historique d’anomalies
++ Manuels machines
+Prétraitement
+Nettoyage, agrégation, normalisation
+Cœur IA
+Prédiction OEE
+Détection de goulots
+Système expert (anomalies similaires)
+Module de Décision
+Recommandations
+Simulation de scénarios (L1 vs L2 vs L3)
+Sorties
+Tableau de bord
+Alertes intelligentes
+Ligne / machine recommandée
+Fonctionnalités Clés
+1. Prédiction de la performance
+— OEE futur estimé
+— Risque de baisse de performance
+— Probabilité d’anomalie
+2. Optimisation du choix de ligne
+— Recommandation de la ligne la plus performante
+— Simulation des scénarios (L1, L2, L3...)
+3
+— Estimation du gain de temps et productivité
+3. Assistance à la résolution de problèmes
+— Analyse des anomalies similaires
+— Proposition des solutions déjà efficaces
+— Aide à la maintenance proactive
+Impact Attendu (+1%→+5% OEE)
+— Meilleure allocation des ordres de production
+— Réduction des arrêts non planifiés
+— Décisions standardisées et basées sur les données
+— Suppression des pertes de rendement évitables
+— Pilotage stratégique et instantané
+Conclusion
+L’Agent IA proposé n’est pas un outil descriptif, mais unassistant de décision
+capable d’améliorer directement l’OEE. Il anticipe, prédit, recommande et optimise, per-
+mettant ainsi à TECPAP d’atteindre l’objectif industriel de+1% à +5% d’OEE.
+4

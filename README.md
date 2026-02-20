@@ -15,6 +15,23 @@ TECPAP AI Agent is an advanced industrial intelligence system designed to optimi
 - **⚡ Speed Optimizer**: "Sweet Spot" finder that calculates the optimal machine speed to maximize net output (Production × Quality).
 - **🖥️ High-Contrast Dashboard**: A professional **Black and Red dark-themed UI** optimized for industrial monitoring.
 
+## 📂 Project Structure
+
+```text
+├── app.py              # Flask server and API endpoints
+├── models/             # AI Brain & Analytical Tools
+│   ├── agent_brain.py  # Orchestrator (Intent processing)
+│   ├── predictor.py    # OEE Forecasting (ML)
+│   ├── anomaly_expert.py# Diagnostic system
+│   └── ...
+├── data/               # Data ingestion & generation
+├── static/             # UI Assets (CSS, JS)
+├── templates/          # Dashboard (HTML)
+├── research/           # Source documents & extraction scripts
+├── requirements.txt    # Python dependencies
+└── vercel.json         # Deployment config
+```
+
 ## 🤖 How the Agent Works
 
 The system implements a "Simulated Brain" orchestrator (`AgentBrain`) that:

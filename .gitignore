@@ -1,3 +1,6 @@
+.gemini/
+.agent/
+.vercel
 __pycache__/
 *.py[cod]
 *$py.class
@@ -9,10 +12,4 @@ ENV/
 *.pkl
 data/*.csv
 !data/products_catalog.py
-.gemini/
-.agent/
-extract_pdf.py
-full_pdf_text.txt
-inno.pdf
-reference_project/
-.vercel
+node_modules/
