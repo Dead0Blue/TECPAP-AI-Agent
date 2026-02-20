@@ -24,6 +24,8 @@ oee_predictor = OEEPredictor()
 line_recommender = LineRecommender()
 anomaly_expert = AnomalyExpert()
 speed_optimizer = SpeedOptimizer()
+agent_brain = AgentBrain(oee_predictor, line_recommender, anomaly_expert, speed_optimizer)
+
 # Initialisation différée pour Vercel
 system_initialized = False
 
