@@ -24,10 +24,17 @@ oee_predictor = OEEPredictor()
 line_recommender = LineRecommender()
 anomaly_expert = AnomalyExpert()
 speed_optimizer = SpeedOptimizer()
-agent_brain = AgentBrain(oee_predictor, line_recommender, anomaly_expert, speed_optimizer)
+# Initialisation différée pour Vercel
+system_initialized = False
 
 def initialize_system():
+    global system_initialized
+    if system_initialized:
+        return True
+    
     print("Initialisation de l'Agent IA TECPAP...")
+    # Charger les données et entraîner les modèles
+    # Note: Sur Vercel, ceci s'exécutera à chaque démarrage à froid
     if data_loader.load_data():
         if not oee_predictor._load_model():
             oee_predictor.train()
@@ -35,9 +42,13 @@ def initialize_system():
         anomaly_expert.load_knowledge_base()
         speed_optimizer.train(data_loader.get_data_for_training())
         print("Système opérationnel!")
+        system_initialized = True
         return True
     return False
 
+# Pour Vercel, on peut initialiser au chargement du module
+# ou à la première requête. Ici, on garde l'initialisation au chargement
+# mais protégée.
 initialize_system()
 
 @app.route('/')
