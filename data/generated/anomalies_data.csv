@@ -1,0 +1,106 @@
+anomaly_id,timestamp,line_id,machine_id,symptom,root_cause,solution_applied,resolution_time_minutes,impact_oee,recurrence_count,priority,status
+1,2024-02-21 23:20:26.637849,L1,M1-3,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,466,-15,3,Medium,Resolved
+2,2024-02-28 23:20:26.637849,L3,M3-2,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,338,-6,2,High,Resolved
+3,2024-03-06 23:20:26.637849,L1,M1-3,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,60,-10,4,High,Resolved
+4,2024-03-13 23:20:26.637849,L2,M2-4,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,444,-15,2,Medium,Resolved
+5,2024-03-20 23:20:26.637849,L3,M3-2,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,88,-15,3,Critical,Resolved
+6,2024-03-27 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,310,-10,3,Medium,Resolved
+7,2024-04-03 23:20:26.637849,L1,M1-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,432,-8,3,Low,Resolved
+8,2024-04-10 23:20:26.637849,L3,M3-1,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,168,-12,2,Critical,Resolved
+9,2024-04-17 23:20:26.637849,L1,M1-3,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,157,-8,2,Medium,Resolved
+10,2024-04-24 23:20:26.637849,L3,M3-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,73,-10,4,Medium,Resolved
+11,2024-05-01 23:20:26.637849,L2,M2-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,234,-8,2,Medium,Resolved
+12,2024-05-08 23:20:26.637849,L2,M2-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,37,-5,2,Low,Resolved
+13,2024-05-15 23:20:26.637849,L2,M2-4,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,358,-8,3,High,Resolved
+14,2024-05-22 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,144,-10,3,High,Resolved
+15,2024-05-29 23:20:26.637849,L3,M3-2,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,385,-15,2,Low,Resolved
+16,2024-06-05 23:20:26.637849,L2,M2-3,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,109,-15,4,Critical,Resolved
+17,2024-06-12 23:20:26.637849,L1,M1-2,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,425,-6,2,High,Resolved
+18,2024-06-19 23:20:26.637849,L3,M3-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,31,-8,3,Medium,Resolved
+19,2024-06-26 23:20:26.637849,L3,M3-2,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,449,-6,2,High,Resolved
+20,2024-07-03 23:20:26.637849,L2,M2-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,101,-10,3,Critical,Resolved
+21,2024-07-10 23:20:26.637849,L3,M3-1,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,414,-5,3,Critical,Resolved
+22,2024-07-17 23:20:26.637849,L3,M3-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,365,-10,2,Low,Resolved
+23,2024-07-24 23:20:26.637849,L2,M2-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,350,-12,2,Medium,Resolved
+24,2024-07-31 23:20:26.637849,L1,M1-3,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,232,-5,2,High,Resolved
+25,2024-08-07 23:20:26.637849,L3,M3-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,313,-8,2,Low,Resolved
+26,2024-08-14 23:20:26.637849,L1,M1-3,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,252,-5,4,Critical,Resolved
+27,2024-08-21 23:20:26.637849,L3,M3-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,156,-10,2,Low,Resolved
+28,2024-08-28 23:20:26.637849,L3,M3-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,75,-8,3,Medium,Resolved
+29,2024-09-04 23:20:26.637849,L2,M2-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,477,-8,3,Low,Resolved
+30,2024-09-11 23:20:26.637849,L2,M2-4,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,440,-10,4,Critical,Resolved
+31,2024-09-18 23:20:26.637849,L1,M1-3,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,209,-5,2,Medium,Resolved
+32,2024-09-25 23:20:26.637849,L1,M1-3,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,323,-12,3,Medium,Resolved
+33,2024-10-02 23:20:26.637849,L2,M2-1,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,324,-6,3,Medium,Resolved
+34,2024-10-09 23:20:26.637849,L3,M3-2,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,415,-15,1,Critical,Resolved
+35,2024-10-16 23:20:26.637849,L2,M2-1,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,314,-6,1,Low,Resolved
+36,2024-10-23 23:20:26.637849,L3,M3-1,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,380,-6,4,Low,Resolved
+37,2024-10-30 23:20:26.637849,L2,M2-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,346,-10,3,Low,Resolved
+38,2024-11-06 23:20:26.637849,L2,M2-4,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,291,-8,3,High,Resolved
+39,2024-11-13 23:20:26.637849,L2,M2-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,417,-12,1,High,Resolved
+40,2024-11-20 23:20:26.637849,L1,M1-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,255,-10,2,Medium,Resolved
+41,2024-11-27 23:20:26.637849,L3,M3-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,304,-12,4,Critical,Resolved
+42,2024-12-04 23:20:26.637849,L3,M3-1,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,391,-6,4,Low,Resolved
+43,2024-12-11 23:20:26.637849,L2,M2-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,355,-5,2,Medium,Resolved
+44,2024-12-18 23:20:26.637849,L2,M2-4,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,383,-8,4,Critical,Resolved
+45,2024-12-25 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,368,-10,1,Medium,Resolved
+46,2025-01-01 23:20:26.637849,L1,M1-1,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,394,-6,4,High,Resolved
+47,2025-01-08 23:20:26.637849,L1,M1-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,241,-10,2,Low,Resolved
+48,2025-01-15 23:20:26.637849,L3,M3-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,410,-5,3,Medium,Resolved
+49,2025-01-22 23:20:26.637849,L2,M2-3,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,261,-5,1,Low,Resolved
+50,2025-01-29 23:20:26.637849,L3,M3-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,431,-12,3,Medium,Resolved
+51,2025-02-05 23:20:26.637849,L2,M2-3,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,382,-5,3,Critical,Resolved
+52,2025-02-12 23:20:26.637849,L3,M3-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,162,-8,3,Critical,Resolved
+53,2025-02-19 23:20:26.637849,L1,M1-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,450,-12,2,Medium,Resolved
+54,2025-02-26 23:20:26.637849,L2,M2-3,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,60,-6,3,Medium,Resolved
+55,2025-03-05 23:20:26.637849,L2,M2-3,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,308,-6,1,Medium,Resolved
+56,2025-03-12 23:20:26.637849,L1,M1-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,72,-5,1,High,Resolved
+57,2025-03-19 23:20:26.637849,L3,M3-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,127,-10,2,High,Resolved
+58,2025-03-26 23:20:26.637849,L2,M2-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,457,-8,1,Critical,Resolved
+59,2025-04-02 23:20:26.637849,L2,M2-3,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,301,-6,4,Critical,Resolved
+60,2025-04-09 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,280,-10,3,High,Resolved
+61,2025-04-16 23:20:26.637849,L2,M2-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,282,-10,4,High,Resolved
+62,2025-04-23 23:20:26.637849,L2,M2-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,412,-12,4,High,Resolved
+63,2025-04-30 23:20:26.637849,L3,M3-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,302,-5,3,Critical,Resolved
+64,2025-05-07 23:20:26.637849,L3,M3-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,91,-8,4,High,Resolved
+65,2025-05-14 23:20:26.637849,L3,M3-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,413,-8,4,Low,Resolved
+66,2025-05-21 23:20:26.637849,L2,M2-4,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,247,-6,1,High,Resolved
+67,2025-05-28 23:20:26.637849,L3,M3-1,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,378,-5,1,Low,Resolved
+68,2025-06-04 23:20:26.637849,L3,M3-1,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,431,-5,3,High,Resolved
+69,2025-06-11 23:20:26.637849,L1,M1-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,365,-5,3,Medium,Resolved
+70,2025-06-18 23:20:26.637849,L1,M1-1,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,194,-12,3,Medium,Resolved
+71,2025-06-25 23:20:26.637849,L2,M2-4,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,334,-8,3,Critical,Resolved
+72,2025-07-02 23:20:26.637849,L2,M2-1,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,464,-12,3,Critical,Resolved
+73,2025-07-09 23:20:26.637849,L1,M1-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,181,-8,4,Critical,Resolved
+74,2025-07-16 23:20:26.637849,L1,M1-3,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,300,-8,2,Low,Resolved
+75,2025-07-23 23:20:26.637849,L1,M1-2,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,227,-6,2,Medium,Resolved
+76,2025-07-30 23:20:26.637849,L1,M1-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,177,-8,1,Low,Resolved
+77,2025-08-06 23:20:26.637849,L2,M2-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,92,-5,4,Critical,Resolved
+78,2025-08-13 23:20:26.637849,L1,M1-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,235,-5,4,Critical,Resolved
+79,2025-08-20 23:20:26.637849,L1,M1-1,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,377,-12,2,Low,Resolved
+80,2025-08-27 23:20:26.637849,L2,M2-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,54,-8,1,High,Resolved
+81,2025-09-03 23:20:26.637849,L1,M1-1,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,72,-5,1,Low,Resolved
+82,2025-09-10 23:20:26.637849,L2,M2-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,221,-8,1,High,Resolved
+83,2025-09-17 23:20:26.637849,L1,M1-3,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,323,-10,2,Low,Resolved
+84,2025-09-24 23:20:26.637849,L1,M1-3,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,105,-12,3,Critical,Resolved
+85,2025-10-01 23:20:26.637849,L1,M1-2,Baisse soudaine de performance de 15%,Usure des courroies de transmission,Remplacement des courroies et réalignement,146,-15,3,Low,Resolved
+86,2025-10-08 23:20:26.637849,L2,M2-1,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,37,-12,3,High,Resolved
+87,2025-10-15 23:20:26.637849,L1,M1-3,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,276,-12,4,Critical,Resolved
+88,2025-10-22 23:20:26.637849,L1,M1-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,248,-10,2,High,Resolved
+89,2025-10-29 23:20:26.637849,L1,M1-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,419,-10,3,Medium,Resolved
+90,2025-11-05 23:20:26.637849,L2,M2-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,279,-10,3,High,Resolved
+91,2025-11-12 23:20:26.637849,L2,M2-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,383,-8,3,Low,Resolved
+92,2025-11-19 23:20:26.637849,L2,M2-2,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,280,-6,4,Low,Resolved
+93,2025-11-26 23:20:26.637849,L2,M2-1,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,364,-5,3,High,Resolved
+94,2025-12-03 23:20:26.637849,L2,M2-1,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,241,-12,1,Low,Resolved
+95,2025-12-10 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,271,-10,3,Critical,Resolved
+96,2025-12-17 23:20:26.637849,L2,M2-3,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,180,-10,1,Critical,Resolved
+97,2025-12-24 23:20:26.637849,L3,M3-2,Bourrage fréquent au niveau de l'alimentation,Tension d'alimentation incorrecte,Ajustement de la tension et nettoyage des rouleaux,405,-12,4,Critical,Resolved
+98,2025-12-31 23:20:26.637849,L2,M2-3,Qualité d'impression dégradée,Viscosité d'encre non conforme,Ajustement de la viscosité et nettoyage des buses,453,-6,3,Medium,Resolved
+99,2026-01-07 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,99,-10,1,Low,Resolved
+100,2026-01-14 23:20:26.637849,L2,M2-4,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,143,-5,3,Low,Resolved
+101,2026-01-21 23:20:26.637849,L2,M2-1,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,192,-10,4,High,Resolved
+102,2026-01-28 23:20:26.637849,L3,M3-1,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,136,-8,3,Medium,Resolved
+103,2026-02-04 23:20:26.637849,L1,M1-2,Augmentation du taux de rebut à 7%,Dérive de la température de séchage,Recalibration du système de contrôle thermique,410,-5,2,High,Resolved
+104,2026-02-11 23:20:26.637849,L1,M1-2,Arrêts micro-répétitifs toutes les 10 minutes,Capteur de position défectueux,Remplacement du capteur et recalibration,72,-8,1,Medium,Resolved
+105,2026-02-18 23:20:26.637849,L3,M3-2,Vibrations anormales détectées,Roulements usés sur l'axe principal,Remplacement des roulements et équilibrage,349,-10,4,Critical,Resolved

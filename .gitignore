@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+*.pkl
+data/*.csv
+!data/products_catalog.py
+.gemini/
+.agent/
+extract_pdf.py
+full_pdf_text.txt
+inno.pdf
+reference_project/
